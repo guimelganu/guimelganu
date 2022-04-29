@@ -1,4 +1,5 @@
 ### Hi there!! I'm Guimel! ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 🤓 
+<br>
 
 ````js
 
@@ -9,7 +10,7 @@ const guimelganu = {
 }
 ````
 
-
+<br>
 Programming languages that I handle:
 <br>
 <br>
