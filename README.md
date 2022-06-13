@@ -1,4 +1,4 @@
-### Hi there!! I'm Guimel! ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"> 🤓 
+### Hi there!! I'm Guimel! ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="10px"> 🤓 
 <br>
 
 ````js
